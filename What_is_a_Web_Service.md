@@ -58,3 +58,6 @@ A web service API:
 
  * Enables platform-independent interoperability(Connecting)
 
+<img width="1122" height="512" alt="image" src="https://github.com/user-attachments/assets/b78e372c-76b2-475e-85f9-2c290c66ee5e" />
+
+
