@@ -26,7 +26,9 @@ APIs and web services represent different approaches to software communication:
 
   * Use web services when you need a consistent, standardized way to communicate over HTTP/HTTPS.
 
-API eppadi different software components interact aaguthu nu define pannum, APIs can use various protocols, data formats, and architectures.
+What is an API?
+
+An application programming interface (API) defines how different software components interact. APIs can use various protocols, data formats, and architectures.
 
 They can connect:
 
@@ -34,7 +36,25 @@ They can connect:
 
   * Across networks
 
-   In cloud environments
+  * In cloud environments
 
 APIs can be built on REST, GraphQL, gRPC, WebSockets, or even custom RPC systems.
+
+*************************************
+
+What is a web service?
+
+A web service is an API designed to communicate over the web using HTTP or HTTPS. It adheres to established standards for interoperability(Connecting) across systems and platforms.
+
+A web service API:
+
+ * Always uses HTTP/HTTPS
+
+ * Typically exchanges XML (SOAP) or JSON (REST)
+
+ * Requires network communication
+
+ * Provides machine-readable service descriptions (WSDL, OpenAPI)
+
+ * Enables platform-independent interoperability(Connecting)
 
