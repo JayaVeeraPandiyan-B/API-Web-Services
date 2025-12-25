@@ -1,5 +1,16 @@
 Rendu vishyathuku nadula communication tool ah irukurathu tha API
 
+Web Service:
+
+        * Web applications ku Web Service API use aaguthu
+        * Web applications ku nadula communication tool ah irukku
+        * Communication ku standard protocol/format irukku
+
+Why we use it:
+
+        * ithu platform independent
+        * Example: oru application C# and windows 10 la irukku and innoru application Java and Linux la irukku naalum ithu communicate panikum 
+
 Question	Answer:
 
 What’s the main difference?	- Web services use HTTP/HTTPS; APIs can use any protocol.
